@@ -3,7 +3,7 @@ jobs:
   run:
    docker:
       - image: hdrjt/aosp:latest
-   resource_class: medium
+#   resource_class: medium
 
    steps:
       - run:
