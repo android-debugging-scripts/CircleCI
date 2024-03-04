@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   run:
    docker:
-      - image: hdrjt/aosp:latest
+      - image: hadadrjt/aosp:latest
 #   resource_class: medium
 
    steps:
